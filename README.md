@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @coldijkx
 - 👀 I’m interested in ...
-niks
+Programming
 - 🌱 I’m currently learning ...
-koekjesbakken
+Java
 - 💞️ I’m looking to collaborate on ...
-niks
+Sharing Code
 - 📫 How to reach me ...
 coldijkx@gmail.com
 
